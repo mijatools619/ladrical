@@ -1,13 +1,13 @@
-<?php include 'modulos/header.php';?>
+<?php include 'modulos/header.php'; ?>
 
 <main class="pt-5 mx-lg-5">
 
-<!-- ESCRIBA AQUÍ SU CODIGO -->
-<div class="container-fluid mt-0">
+    <!-- ESCRIBA AQUÍ SU CODIGO -->
+    <div class="container-fluid mt-0">
         <div class="card card-cascade wider">
             <div class="view view-cascade gradient-card-header orange">
                 <h5 class="card-header-title white-text my-2">
-                <center> <b>MI LISTA</b> </center>
+                    <center> <b>MI LISTA</b> </center>
             </div>
             <div class="card-body card-body-cascade">
                 <div class="table-responsive">
@@ -29,7 +29,7 @@
                         }
                     </style>
 
-<table id="example" class="table table-striped table-bordered  table-hover" cellspacing="0" width="100%">
+                    <table id="example" class="table table-striped table-bordered  table-hover" cellspacing="0" width="100%">
                         <thead>
                             <tr>
                                 <th class="th-sm">NOMBRE
@@ -44,31 +44,22 @@
                                 </th>
                                 <th class="th-sm">EDITAR
                                 </th>
-                               
                             </tr>
                         </thead>
                         <tbody>
-                            
-                          
-                                <tr>
-                                    <td>juan</td>
-                                    <td>juan</td>
-                                    <td>juan</td>
-                                    <td>juan</td>
-                                    <td>juan</td>
-                                    
-                                    <td>
-                                       
-                                    </td>
-                                </tr>
-                          
+                            <tr>
+                                <td>juan</td>
+                                <td>juan</td>
+                                <td>juan</td>
+                                <td>juan</td>
+                                <td>juan</td>
+                                <td>
+                                </td>
+                            </tr>
                         </tbody>
                     </table>
-                    </div>
+                </div>
             </div>
 
-
-
-<h1>... </h1>
 </main>
-<?php include 'modulos/footer.php';?>
+<?php include 'modulos/footer.php'; ?>
